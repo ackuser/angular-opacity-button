@@ -1,0 +1,45 @@
+.btn-paypal {
+  color: #ffffff;
+  background-color: #611BBD;
+  border-color: #130269;
+}
+
+.btn-paypal:hover,
+.btn-paypal:focus,
+.btn-paypal:active,
+.btn-paypal.active,
+.open .dropdown-toggle.btn-paypal {
+  color: #ffffff;
+  background-color: #49247A;
+  border-color: #130269;
+}
+
+.btn-paypal:active,
+.btn-paypal.active,
+.open .dropdown-toggle.btn-paypal {
+  background-image: none;
+}
+
+.btn-paypal.disabled,
+.btn-paypal[disabled],
+fieldset[disabled] .btn-paypal,
+.btn-paypal.disabled:hover,
+.btn-paypal[disabled]:hover,
+fieldset[disabled] .btn-paypal:hover,
+.btn-paypal.disabled:focus,
+.btn-paypal[disabled]:focus,
+fieldset[disabled] .btn-paypal:focus,
+.btn-paypal.disabled:active,
+.btn-paypal[disabled]:active,
+fieldset[disabled] .btn-paypal:active,
+.btn-paypal.disabled.active,
+.btn-paypal[disabled].active,
+fieldset[disabled] .btn-paypal.active {
+  background-color: #611BBD;
+  border-color: #130269;
+}
+
+.btn-paypal .badge {
+  color: #611BBD;
+  background-color: #ffffff;
+}
